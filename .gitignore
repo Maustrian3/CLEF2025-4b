@@ -4,4 +4,5 @@ task1/format_checker/__pycache__/
 task1/scorer/__pycache__/
 .idea/
 task4/subtask_4b/neural_reranking/output/
+task4/subtask_4b/neural_NLP/output/
 venv/
